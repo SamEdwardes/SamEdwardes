@@ -1,12 +1,12 @@
 Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and all things open source.
 
-🌱 Some of my open source projects include:
+🌱  Some of my open source projects include:
 
 - [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) 🐍
 - [jupydocs](https://github.com/SamEdwardes/jupydocs) 🐍
 - [pydatafaker](https://github.com/SamEdwardes/pydatafaker) 🐍
 
-💬 Links:
+💬  Links:
 
 - [GitHub](https://github.com/SamEdwardes)
 - [SamEdwardes.com](https://samedwardes.com/)

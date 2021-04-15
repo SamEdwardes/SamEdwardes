@@ -1,12 +1,14 @@
 Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and all things open source.
 
-🌱 Some of my open source projects include:
+**Open source projects**
 
-- [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) 🐍
-- [jupydocs](https://github.com/SamEdwardes/jupydocs) 🐍
-- [pydatafaker](https://github.com/SamEdwardes/pydatafaker) 🐍
+| Project                                                      | Description                                                  | Type |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) | A TextBlob sentiment analysis pipeline component for spaCy.  | 🐍    |
+| [jupydocs](https://github.com/SamEdwardes/jupydocs)          | Easy Python package documentation using markdown and jupyter. | 🐍    |
+| [pydatafaker](https://github.com/SamEdwardes/pydatafaker)    | A python package to create fake data with relationships between tables. | 🐍    |
 
-💬 Links:
+**Links**
 
 - [GitHub](https://github.com/SamEdwardes)
 - [SamEdwardes.com](https://samedwardes.com/)
@@ -19,18 +21,3 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 </p>
 
 <hr>
-
-<!--
-**SamEdwardes/SamEdwardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

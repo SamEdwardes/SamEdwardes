@@ -7,6 +7,7 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 | [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) | A TextBlob sentiment analysis pipeline component for spaCy.  | 🐍    |
 | [jupydocs](https://github.com/SamEdwardes/jupydocs)          | Easy Python package documentation using markdown and jupyter. | 🐍    |
 | [pydatafaker](https://github.com/SamEdwardes/pydatafaker)    | A python package to create fake data with relationships between tables. | 🐍    |
+| [safejoin](https://github.com/SamEdwardes/safejoin)    | Perform "safe" table joins in R. | **R**    |
 
 **Links**
 

@@ -1,6 +1,6 @@
 Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and all things open source.
 
-**Open source projects**
+**Open source packages / libraries**
 
 | Project                                                      | Description                                                  | Type |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |

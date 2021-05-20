@@ -8,17 +8,19 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 
 **Open source packages / libraries**
 
-| Project                                                      | Description                                                  | Type |
+| Package / Library                                                      | Description                                                  | Type |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) | A TextBlob sentiment analysis pipeline component for spaCy.  | 🐍    |
+| [spaCyPDFreader](https://github.com/SamEdwardes/spaCyPDFreader) | A PDF to text extraction pipeline component for spaCy. | 🐍    |
 | [jupydocs](https://github.com/SamEdwardes/jupydocs)          | Easy Python package documentation using markdown and jupyter. | 🐍    |
 | [pydatafaker](https://github.com/SamEdwardes/pydatafaker)    | A python package to create fake data with relationships between tables. | 🐍    |
 | [prettynum](https://github.com/SamEdwardes/prettynum)    | Simple number formatting for python inspired by the [scales](https://scales.r-lib.org/index.html) package in R. | 🐍    |
 | [safejoin](https://github.com/SamEdwardes/safejoin)    | Perform "safe" table joins in R. | **R**    |
+| [rmd-mail-marge](https://github.com/SamEdwardes/rmd-mail-merge)    | A template for using R, R Markdown, and knitr to perform a completely customizable mail merge. | **R**    |
 
-**Projects**
+**Projects and Apps**
 
-| Project                                                      | Links |Details                                                      |
+| Name                                                      | Links |Details                                                      |
 | ------------------------------------------------------------ | ----- |------------------------------------------------------------ |
 | GitHub Search tool for UBC | [App](https://ubc-mds-github-search.herokuapp.com/) / [GitHub](https://github.com/SamEdwardes/ubc-mds-github-search) | A python web application for finding lecture content from the UBC Masters of Data Science Program. <br /><br />[Python, Dash, Docker, Heroku] | 
 | Text Prediction Model | [App](https://samedwardes.shinyapps.io/text-prediction-model/) / [GitHub](https://github.com/SamEdwardes/predictive-text-model-swift-key) | The text prediction model uses the so called "Stupid Backoff" to predict what the next word you wish to type is based on the previously typed words. <br /><br />[R, Shiny]|

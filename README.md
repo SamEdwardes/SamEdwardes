@@ -11,12 +11,10 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 | Package / Library                                                      | Description                                                  | Type |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) | A TextBlob sentiment analysis pipeline component for spaCy.  | 🐍    |
-| [spaCyPDFreader](https://github.com/SamEdwardes/spaCyPDFreader) | A PDF to text extraction pipeline component for spaCy. | 🐍    |
-| [jupydocs](https://github.com/SamEdwardes/jupydocs)          | Easy Python package documentation using markdown and jupyter. | 🐍    |
+| [spacypdfreader](https://github.com/SamEdwardes/spacypdfreader) | A PDF to text extraction pipeline component for spaCy. | 🐍    |
 | [pydatafaker](https://github.com/SamEdwardes/pydatafaker)    | A python package to create fake data with relationships between tables. | 🐍    |
 | [prettynum](https://github.com/SamEdwardes/prettynum)    | Simple number formatting for python inspired by the [scales](https://scales.r-lib.org/index.html) package in R. | 🐍    |
 | [safejoin](https://github.com/SamEdwardes/safejoin)    | Perform "safe" table joins in R. | **R**    |
-| [rmd-mail-marge](https://github.com/SamEdwardes/rmd-mail-merge)    | A template for using R, R Markdown, and knitr to perform a completely customizable mail merge. | **R**    |
 
 **Projects and Apps**
 

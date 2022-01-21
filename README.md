@@ -10,6 +10,7 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 
 | Package / Library                                                      | Description                                                  | Type |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [sqlcli](https://github.com/SamEdwardes/sqlcli) | A command line interface (CLI) for interacting with SQLModel.  | 🐍    |
 | [spaCyTextBlob](https://github.com/SamEdwardes/spaCyTextBlob) | A TextBlob sentiment analysis pipeline component for spaCy.  | 🐍    |
 | [spacypdfreader](https://github.com/SamEdwardes/spacypdfreader) | A PDF to text extraction pipeline component for spaCy. | 🐍    |
 | [pydatafaker](https://github.com/SamEdwardes/pydatafaker)    | A python package to create fake data with relationships between tables. | 🐍    |

@@ -2,9 +2,9 @@ Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and
 
 **Links**
 
-- [GitHub](https://github.com/SamEdwardes)
-- [SamEdwardes.com](https://samedwardes.com/)
-- [Twitter](https://twitter.com/TheReaLSamlam)
+- 📂 [GitHub](https://github.com/SamEdwardes)
+- 💻 [SamEdwardes.com](https://samedwardes.com/)
+- 📧 [Twitter](https://twitter.com/TheReaLSamlam)
 
 **Open source packages / libraries**
 

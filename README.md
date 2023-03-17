@@ -1,4 +1,4 @@
-Hi, I'm Sam! I am a Data Scientest in Vancvouer, BC. I love using Python, R, and all things open source.
+Hi, I'm Sam! I am a Solutions Engineer working for Posit (formerly known as RStudio) living in Vancouver, BC. I love using Python, R, and all things open source.
 
 **Links**
 
